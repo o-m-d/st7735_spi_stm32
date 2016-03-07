@@ -1,6 +1,6 @@
 # STM32 library for SPI ST7735 LCD
 
-Inspired by [a relative link](LonelyWolf/stm32/tree/master/ST7735)
+Inspired by a (../../LonelyWolf/stm32/tree/master/ST7735)
 
 Developed and tested on STM32F103C8T6 and 160x128 screen in RGB 565 mode.
 
