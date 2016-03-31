@@ -59,7 +59,7 @@
 #define ST7735_RST_PIN       GPIO_Pin_12
 
 // ST7735 CS (Chip Select) pin
-#define ST7735_CS_PORT_CLK   RCC_APB2Periph_GPIOA
+#define ST7735_CS_PORT_CLK   RCC_APB2Periph_GPIOB
 #define ST7735_CS_PORT       GPIOB
 #define ST7735_CS_PIN        GPIO_Pin_5
 
